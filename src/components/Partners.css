@@ -1,0 +1,13 @@
+div.row{
+    margin-top:100px;
+}
+
+div.col-md-2{
+    width:15% !important;
+}
+
+@media screen and (max-width: 960px) {
+    .PartnersSection div.col-md-2{
+        width:16.6% !important;
+    }
+}
